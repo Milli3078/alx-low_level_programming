@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * main -Entry point
- * retun  0 (success)
+ * main - a program that prints a line with puts function 
+ * retun:  0 (success)
  */
 int main(void)
 {
-	puts(" with proper grammar, but the outcome is a piece of art");
-		rturn (0);
+puts("\" with proper grammar, but the outcome is a piece of art");
+rturn (0);
 }
