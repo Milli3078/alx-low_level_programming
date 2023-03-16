@@ -1,10 +1,10 @@
-#include <stdio.h>
+#iclude <stdio.h>
 /**
- * main - a program that prints a line with puts function 
- * retun:  0 (success)
+ * main - a program that prints aline with puts function
+ * return: 0 (success)
  */
 int main(void)
 {
-puts("\" with proper grammar, but the outcome is a piece of art");
-rturn (0);
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
